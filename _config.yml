@@ -4,16 +4,16 @@ layouts:     ./_layouts
 timezone:    Asia/Hongkong
 
 # Site settings
-email: 1540294142@qq.com
-author: Joytou Wu
-owner_name: Joytou Wu
-github_username: joytou
-repo: joytou.github.io
+email: yangming@cn.ibm.com
+author: Yang Ming
+owner_name: Yang Ming
+github_username: mytxyang
+repo: mytxyang.github.io
 
 #Server
-url: http://joytou.nets.hk
-github: https://github.com/joytou/
-baseurl: ""
+url: https://mytxyang.github.io
+github: https://github.com/mytxyang/
+baseurl: "jekyll_template"
 
 #Page settings
 future: true
