@@ -11,7 +11,7 @@ github_username: mytxyang
 repo: mytxyang.github.io
 
 #Server
-url: https://mytxyang.github.io
+url: https://mytxyang.github.io/
 github: https://github.com/mytxyang/
 baseurl: "jekyll_template"
 
